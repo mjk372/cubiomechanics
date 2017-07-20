@@ -1,11 +1,9 @@
-
 <!DOCTYPE html>
 <html lang="en">
 
 <head>
-    <!--- Basic Page Needs  -->
     <meta charset="utf-8">
-    <title>Home One || Medical</title>
+    <title>Home CU Biomechanics</title>
     <meta name="description" content="">
     <meta name="author" content="">
     <meta name="keywords" content="">
@@ -49,7 +47,7 @@
                 <div class="row">
                     <div class="col-md-6 col-xs-12">
                         <div class="header-top-left">
-                            <p class="htl-reservation"><i class="fa fa-mobile"></i>For Reservation Call : 1.000.222.1111</p>
+                            <p class="htl-reservation"><i class="fa fa-mobile"></i>For</p>
                         </div>
                     </div>
                     <div class="col-md-6 col-xs-12">
